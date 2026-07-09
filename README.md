@@ -40,9 +40,9 @@ It helps intrapreneurs, growth hackers, startup teams, and business innovators v
 - Technical feasibility review
 - Pitch deck and persuasion script generation
 
-🔗 Repository: Coming soon  
-🎥 Demo: Coming soon  
-📝 Blog: Coming soon  
+🔗 Repository: https://github.com/ETHAN071104/Global_AI_Hackathon_Series_with_Qwen_Cloud 
+🎥 Demo: https://youtu.be/T0uCJFSE5k8?si=5hejuZxuO3ehGV6n 
+📝 Blog: https://blog-global-ai-hackathon-series-wit.vercel.app
 
 ---
 
@@ -59,23 +59,9 @@ It helps teachers generate quizzes, verify real users, and monitor student activ
 - Real-time classroom quiz monitoring
 - Teacher dashboard
 
-🔗 Repository: Coming soon  
-🎥 Demo: Coming soon  
-📝 Blog: Coming soon  
-
----
-
-### 📄 PaperPilot
-
-PaperPilot is a PDF assistant project designed to help users summarize documents, ask questions, and study more efficiently.
-
-**Key features:**
-- PDF summarization
-- Document Q&A
-- Study notes generation
-- Research workflow support
-
-🔗 Repository: Coming soon  
+🔗 Repository: https://github.com/ETHAN071104/Vercel-v0-X-AWS-Databases-hackathon
+🎥 Demo: https://youtu.be/M5uyjg1bINo?si=Nu8iJtUHnU72pTon
+📝 Blog:  https://vercel-v0-x-aws-databases-hackathon-ten.vercel.app
 
 ---
 
